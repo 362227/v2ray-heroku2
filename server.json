@@ -1,0 +1,21 @@
+{
+  "inbound": {
+    "port": 8080,
+    "protocol": "vmess",
+    "settings": {
+      "clients": [
+        {
+          "id": "04669961-193a-48c9-9993-55fe10f10bbe",
+          "alterId": 64
+        }
+      ]
+    },
+    "streamSettings": {
+      "network":"ws"
+    }
+  },
+  "outbound": {
+    "protocol": "freedom",
+    "settings": {}
+  }
+}

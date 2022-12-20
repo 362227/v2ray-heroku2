@@ -1,0 +1,8 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+
+	],
+	"rootPath": "github.com/xuiv/v2ray-heroku"
+}

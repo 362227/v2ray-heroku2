@@ -1,0 +1,6 @@
+---
+applications:
+ - buildpack: https://github.com/cloudfoundry/go-buildpack.git
+   env:
+     GOVERSION: go1.10
+     GOPACKAGENAME: github.com/21967201/v2ray-heroku
